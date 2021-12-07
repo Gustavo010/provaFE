@@ -1,0 +1,11 @@
+.card {
+   
+    width: "30vw";
+    height:"10vh";
+    border: "1px solid black";
+    borderRadius: "10px";
+    padding : "8px";
+    fontFamily : "arial";
+    fontWeight : "bold";
+    textAlign : "center";
+    marginTop : "10px";
